@@ -1,0 +1,7 @@
+com/mongo/nosql/repository/StudentRepository.class
+com/mongo/nosql/controller/StudentController.class
+com/mongo/nosql/entity/Student.class
+com/mongo/nosql/service/StudentService.class
+com/mongo/nosql/NosqlApplication.class
+com/mongo/nosql/entity/Department.class
+com/mongo/nosql/entity/Subject.class
